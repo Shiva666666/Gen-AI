@@ -1,0 +1,18 @@
+- generic [ref=e2]:
+  - img [ref=e3]
+  - generic [ref=e5]:
+    - generic:
+      - main:
+        - generic:
+          - heading [level=2]
+          - paragraph
+    - list [ref=e6]:
+      - listitem [ref=e7]: "Ray ID: 9e8b2cfa897b3c01"
+      - listitem [ref=e8]: "Your IP address: 2406:7400:56:9e25:3d80:9a16:ba00:5535"
+      - listitem [ref=e9]: "Detected location: IN"
+    - paragraph [ref=e10]:
+      - text: We’re currently checking your connection. This shouldn’t take long.
+      - text: If you keep getting this page, check if there’s a
+      - link "problem with Canva" [ref=e11] [cursor=pointer]:
+        - /url: https://www.canvastatus.com/
+      - text: .

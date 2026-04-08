@@ -1,0 +1,5 @@
+- generic [ref=e2]:
+  - link [ref=e3] [cursor=pointer]:
+    - /url: https://www.gradio.app
+    - img [ref=e4]
+  - heading "No interface is running right now" [level=2] [ref=e5]

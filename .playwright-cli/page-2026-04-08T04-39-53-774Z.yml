@@ -1,0 +1,244 @@
+- generic [ref=e2]:
+  - region "Notifications (F8)":
+    - list
+  - region "Notifications alt+T"
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - navigation [ref=e6]:
+        - generic:
+          - img "AISHVI - Web Development & Custom Solutions"
+        - generic [ref=e7]:
+          - button "Services" [ref=e8] [cursor=pointer]
+          - button "About Us" [ref=e9] [cursor=pointer]
+          - button "Let's Talk" [ref=e10] [cursor=pointer]
+    - main [ref=e11]:
+      - generic [ref=e17]:
+        - heading "Building Your Digital Future, Today!" [level=1] [ref=e18]:
+          - text: Building Your
+          - generic [ref=e19]: Digital Future,
+          - text: Today!
+        - paragraph [ref=e20]: Transform your business with professional web solutions. We create, maintain, and optimize websites that help businesses thrive in the digital landscape.
+        - generic [ref=e21]:
+          - generic [ref=e22]:
+            - img [ref=e23]
+            - generic [ref=e26]: Web Development
+          - generic [ref=e27]:
+            - img [ref=e28]
+            - generic [ref=e31]: Custom Solutions
+          - generic [ref=e32]:
+            - img [ref=e33]
+            - generic [ref=e35]: 24/7 Support
+        - button "Start Your Project" [ref=e37] [cursor=pointer]:
+          - text: Start Your Project
+          - img
+      - generic [ref=e39]:
+        - generic [ref=e40]:
+          - heading "Our Services" [level=2] [ref=e41]
+          - paragraph [ref=e42]: Comprehensive web solutions to help your business succeed online. From development to maintenance, we've got you covered.
+        - generic [ref=e43]:
+          - generic [ref=e45]:
+            - img [ref=e48]
+            - heading "Website Development" [level=3] [ref=e51]
+            - paragraph [ref=e52]: Custom websites built with modern technologies, responsive design, and optimized performance.
+            - list [ref=e53]:
+              - listitem [ref=e54]:
+                - generic [ref=e56]: Responsive Design
+              - listitem [ref=e57]:
+                - generic [ref=e59]: SEO Optimized
+              - listitem [ref=e60]:
+                - generic [ref=e62]: Fast Loading
+              - listitem [ref=e63]:
+                - generic [ref=e65]: Mobile-First
+          - generic [ref=e67]:
+            - img [ref=e70]
+            - heading "Mobile Optimization" [level=3] [ref=e72]
+            - paragraph [ref=e73]: Ensure your website looks perfect and functions flawlessly on all mobile devices.
+            - list [ref=e74]:
+              - listitem [ref=e75]:
+                - generic [ref=e77]: Cross-Browser Testing
+              - listitem [ref=e78]:
+                - generic [ref=e80]: Touch Optimization
+              - listitem [ref=e81]:
+                - generic [ref=e83]: App-Like Experience
+              - listitem [ref=e84]:
+                - generic [ref=e86]: Progressive Web Apps
+          - generic [ref=e88]:
+            - img [ref=e91]
+            - heading "E-commerce Solutions" [level=3] [ref=e95]
+            - paragraph [ref=e96]: Complete online store development with payment integration and inventory management.
+            - list [ref=e97]:
+              - listitem [ref=e98]:
+                - generic [ref=e100]: Payment Gateways
+              - listitem [ref=e101]:
+                - generic [ref=e103]: Inventory Management
+              - listitem [ref=e104]:
+                - generic [ref=e106]: Order Processing
+              - listitem [ref=e107]:
+                - generic [ref=e109]: Analytics Dashboard
+          - generic [ref=e111]:
+            - img [ref=e114]
+            - heading "SEO & Digital Marketing" [level=3] [ref=e117]
+            - paragraph [ref=e118]: Boost your online visibility and drive more traffic to your website.
+            - list [ref=e119]:
+              - listitem [ref=e120]:
+                - generic [ref=e122]: Keyword Research
+              - listitem [ref=e123]:
+                - generic [ref=e125]: Content Strategy
+              - listitem [ref=e126]:
+                - generic [ref=e128]: Link Building
+              - listitem [ref=e129]:
+                - generic [ref=e131]: Performance Tracking
+          - generic [ref=e133]:
+            - img [ref=e136]
+            - heading "Website Maintenance" [level=3] [ref=e138]
+            - paragraph [ref=e139]: Keep your website secure, updated, and running smoothly with our maintenance services.
+            - list [ref=e140]:
+              - listitem [ref=e141]:
+                - generic [ref=e143]: Security Updates
+              - listitem [ref=e144]:
+                - generic [ref=e146]: Backup Services
+              - listitem [ref=e147]:
+                - generic [ref=e149]: Performance Monitoring
+              - listitem [ref=e150]:
+                - generic [ref=e152]: Bug Fixes
+          - generic [ref=e154]:
+            - img [ref=e157]
+            - heading "UI/UX Design" [level=3] [ref=e163]
+            - paragraph [ref=e164]: Create engaging user experiences with modern, intuitive design principles.
+            - list [ref=e165]:
+              - listitem [ref=e166]:
+                - generic [ref=e168]: User Research
+              - listitem [ref=e169]:
+                - generic [ref=e171]: Wireframing
+              - listitem [ref=e172]:
+                - generic [ref=e174]: Prototyping
+              - listitem [ref=e175]:
+                - generic [ref=e177]: Design Systems
+          - generic [ref=e179]:
+            - img [ref=e182]
+            - heading "Analytics & Reporting" [level=3] [ref=e184]
+            - paragraph [ref=e185]: Track your website performance and user behavior with detailed analytics.
+            - list [ref=e186]:
+              - listitem [ref=e187]:
+                - generic [ref=e189]: Traffic Analysis
+              - listitem [ref=e190]:
+                - generic [ref=e192]: Conversion Tracking
+              - listitem [ref=e193]:
+                - generic [ref=e195]: Custom Reports
+              - listitem [ref=e196]:
+                - generic [ref=e198]: Performance Insights
+          - generic [ref=e200]:
+            - img [ref=e203]
+            - heading "24/7 Support" [level=3] [ref=e205]
+            - paragraph [ref=e206]: Round-the-clock technical support to ensure your website is always running perfectly.
+            - list [ref=e207]:
+              - listitem [ref=e208]:
+                - generic [ref=e210]: Live Chat Support
+              - listitem [ref=e211]:
+                - generic [ref=e213]: Emergency Response
+              - listitem [ref=e214]:
+                - generic [ref=e216]: Technical Assistance
+              - listitem [ref=e217]:
+                - generic [ref=e219]: Consultation
+          - generic [ref=e221]:
+            - img [ref=e224]
+            - heading "Digital Transformation" [level=3] [ref=e229]
+            - paragraph [ref=e230]: Complete digital transformation services to modernize your business operations.
+            - list [ref=e231]:
+              - listitem [ref=e232]:
+                - generic [ref=e234]: Strategy Planning
+              - listitem [ref=e235]:
+                - generic [ref=e237]: Technology Integration
+              - listitem [ref=e238]:
+                - generic [ref=e240]: Process Automation
+              - listitem [ref=e241]:
+                - generic [ref=e243]: Training & Support
+      - generic [ref=e246]:
+        - generic [ref=e247]:
+          - heading "About AISHVI" [level=2] [ref=e248]
+          - generic [ref=e249]:
+            - paragraph [ref=e250]: At AISHVI Web Solutions Pvt Ltd, we are passionate about empowering businesses to thrive in the digital landscape. Since our inception, we have been dedicated to creating exceptional web experiences that drive growth and success.
+            - paragraph [ref=e251]: Our team of skilled developers, designers, and digital strategists work collaboratively to deliver cutting-edge solutions that not only meet but exceed our clients' expectations. We believe in the power of technology to transform businesses and create meaningful connections.
+            - paragraph [ref=e252]: From startups to established enterprises, we've helped hundreds of businesses establish their online presence, streamline their operations, and achieve their digital transformation goals.
+          - button "Start Your Journey" [ref=e254] [cursor=pointer]
+        - generic [ref=e257]:
+          - heading "Our Mission" [level=3] [ref=e258]
+          - paragraph [ref=e259]: To democratize digital success by providing world-class web solutions that are accessible, affordable, and tailored to each business's unique needs. We're not just building websites – we're building digital futures.
+      - generic [ref=e263]:
+        - generic [ref=e264]:
+          - heading "Let's Build Something Amazing" [level=2] [ref=e265]
+          - paragraph [ref=e266]: Ready to transform your digital presence? Get in touch with our team for a free consultation and discover how we can help your business succeed online.
+        - generic [ref=e267]:
+          - generic [ref=e268]:
+            - img "AISHVI Web Solutions"
+          - generic [ref=e269]:
+            - generic [ref=e270]:
+              - heading "Get in Touch" [level=3] [ref=e271]
+              - paragraph [ref=e272]: Empowering businesses with innovative web solutions. We create, maintain, and optimize digital experiences that drive growth and success.
+            - generic [ref=e273]:
+              - generic [ref=e275]:
+                - img [ref=e277]
+                - generic [ref=e279]:
+                  - heading "Phone" [level=4] [ref=e280]
+                  - paragraph [ref=e281]: +91 8296005223
+                  - paragraph [ref=e282]: Mon-Fri 9AM-6PM IST
+              - generic [ref=e284]:
+                - img [ref=e286]
+                - generic [ref=e289]:
+                  - heading "Email" [level=4] [ref=e290]
+                  - paragraph [ref=e291]: info@aishviwebsolutions.com
+                  - paragraph [ref=e292]: aishviwebsolutions@gmail.com
+                  - paragraph [ref=e293]: We'll respond within 24 hours
+              - generic [ref=e295]:
+                - img [ref=e297]
+                - generic [ref=e300]:
+                  - heading "Office" [level=4] [ref=e301]
+                  - paragraph [ref=e302]: India
+                  - paragraph [ref=e303]: Remote-first company
+    - contentinfo [ref=e304]:
+      - generic [ref=e305]:
+        - generic [ref=e306]:
+          - generic [ref=e307]:
+            - paragraph [ref=e308]: Empowering businesses with innovative web solutions. We create, maintain, and optimize digital experiences that drive growth and success.
+            - generic [ref=e309]:
+              - paragraph [ref=e310]: 📧 aishviwebsolutions@gmail.com
+              - paragraph [ref=e311]: 📞 +91 8296005223
+          - generic [ref=e312]:
+            - heading "Services" [level=3] [ref=e313]
+            - list [ref=e314]:
+              - listitem [ref=e315]:
+                - link "Web Development" [ref=e316] [cursor=pointer]:
+                  - /url: "#services"
+              - listitem [ref=e317]:
+                - link "E-commerce Solutions" [ref=e318] [cursor=pointer]:
+                  - /url: "#services"
+              - listitem [ref=e319]:
+                - link "SEO & Marketing" [ref=e320] [cursor=pointer]:
+                  - /url: "#services"
+              - listitem [ref=e321]:
+                - link "Website Maintenance" [ref=e322] [cursor=pointer]:
+                  - /url: "#services"
+              - listitem [ref=e323]:
+                - link "UI/UX Design" [ref=e324] [cursor=pointer]:
+                  - /url: "#services"
+          - generic [ref=e325]:
+            - heading "Company" [level=3] [ref=e326]
+            - list [ref=e327]:
+              - listitem [ref=e328]:
+                - link "About Us" [ref=e329] [cursor=pointer]:
+                  - /url: "#about"
+              - listitem [ref=e330]:
+                - link "Our Services" [ref=e331] [cursor=pointer]:
+                  - /url: "#services"
+              - listitem [ref=e332]:
+                - link "Contact" [ref=e333] [cursor=pointer]:
+                  - /url: "#contact"
+              - listitem [ref=e334]:
+                - link "Privacy Policy" [ref=e335] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e336]:
+                - link "Terms of Service" [ref=e337] [cursor=pointer]:
+                  - /url: "#"
+        - generic [ref=e338]:
+          - paragraph [ref=e339]: © 2026 AISHVI Web Solutions Pvt Ltd. All rights reserved.
+          - generic [ref=e340]: Made with ❤️ by AISHVI Team

@@ -1,0 +1,65 @@
+{
+  "model": "dandelin/vilt-b32-finetuned-vqa",
+  "notebook": "C:\\Users\\licha\\OneDrive\\Desktop\\Gen-AI\\output\\jupyter-notebook\\lab_14_vqa_428.ipynb",
+  "image_path": "C:\\Users\\licha\\OneDrive\\Desktop\\Gen-AI\\output\\playwright\\lab14_sample_cats.jpg",
+  "answers": [
+    {
+      "question": "How many cats are there?",
+      "answer": "2",
+      "score": 0.8799,
+      "top_k": [
+        {
+          "score": 0.879936695098877,
+          "answer": "2"
+        },
+        {
+          "score": 0.2959791421890259,
+          "answer": "1"
+        },
+        {
+          "score": 0.004855961073189974,
+          "answer": "3"
+        }
+      ]
+    },
+    {
+      "question": "What are the cats sitting on?",
+      "answer": "bed",
+      "score": 0.7715,
+      "top_k": [
+        {
+          "score": 0.7714864015579224,
+          "answer": "bed"
+        },
+        {
+          "score": 0.2341545671224594,
+          "answer": "blanket"
+        },
+        {
+          "score": 0.21279561519622803,
+          "answer": "couch"
+        }
+      ]
+    },
+    {
+      "question": "What color is the couch?",
+      "answer": "pink",
+      "score": 0.9641,
+      "top_k": [
+        {
+          "score": 0.9640812873840332,
+          "answer": "pink"
+        },
+        {
+          "score": 0.7149643301963806,
+          "answer": "red"
+        },
+        {
+          "score": 0.006906849332153797,
+          "answer": "purple"
+        }
+      ]
+    }
+  ],
+  "result_image": "C:\\Users\\licha\\OneDrive\\Desktop\\Gen-AI\\output\\lab14_notebook\\lab14_vqa_results.png"
+}

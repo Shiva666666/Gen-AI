@@ -1,0 +1,100 @@
+{
+  "output_path": "C:\\Users\\licha\\OneDrive\\Desktop\\Gen-AI\\output\\doc\\GenAI_Final_Lab_Manual_1RVU23CSE428.docx",
+  "student_name": "Shiva Dhanush S",
+  "usn": "1RVU23CSE428",
+  "semester": "6th Semester",
+  "section_count": 15,
+  "displayed_image_count": 47,
+  "sections": [
+    {
+      "blocks_added": 191,
+      "displayed_images_added": 2,
+      "section": "Exp 1 : Foundational Interaction & Multimodal Generative AI",
+      "source": "C:\\Users\\licha\\OneDrive\\Desktop\\Gen-AI\\final lab\\lab_1_428.docx"
+    },
+    {
+      "blocks_added": 52,
+      "displayed_images_added": 8,
+      "section": "Lab 2 \u2013 Using Kaggle, Fast AI, Hugging Face",
+      "source": "C:\\Users\\licha\\OneDrive\\Desktop\\Gen-AI\\final lab\\lab_2_428.docx"
+    },
+    {
+      "blocks_added": 36,
+      "displayed_images_added": 4,
+      "section": "Lab 3 \u2013 Implementation and Visualization of Word2Vec Embeddings",
+      "source": "C:\\Users\\licha\\OneDrive\\Desktop\\Gen-AI\\final lab\\lab_3_428.docx"
+    },
+    {
+      "blocks_added": 38,
+      "displayed_images_added": 0,
+      "section": "Lab 4 Logical Reasoning & Structural Prompting",
+      "source": "C:\\Users\\licha\\OneDrive\\Desktop\\Gen-AI\\final lab\\lab_4_428.docx"
+    },
+    {
+      "blocks_added": 44,
+      "displayed_images_added": 0,
+      "section": "Lab 5. Using ChatGPT/Gemini: Generate your resume, Simulate a complete interview",
+      "source": "C:\\Users\\licha\\OneDrive\\Desktop\\Gen-AI\\final lab\\lab_5_428.docx"
+    },
+    {
+      "blocks_added": 38,
+      "displayed_images_added": 3,
+      "section": "Lab 6. Using Cursor AI/Lovable: Create a website, web app",
+      "source": "C:\\Users\\licha\\OneDrive\\Desktop\\Gen-AI\\final lab\\lab_6_428.docx"
+    },
+    {
+      "blocks_added": 43,
+      "displayed_images_added": 1,
+      "section": "Lab 7 \u2013 Gemini-Pro: Generative API Key and Accessing the Model using API",
+      "source": "C:\\Users\\licha\\OneDrive\\Desktop\\Gen-AI\\final lab\\lab_7_428.docx"
+    },
+    {
+      "blocks_added": 40,
+      "displayed_images_added": 2,
+      "section": "Lab 8 \u2013 Using Meta\u2019s LLaMA-3 Models (Cloud & Local Deployment)",
+      "source": "C:\\Users\\licha\\OneDrive\\Desktop\\Gen-AI\\final lab\\lab_8_428.docx"
+    },
+    {
+      "blocks_added": 45,
+      "displayed_images_added": 2,
+      "section": "Lab 9. Experimenting open-source models with hugging face (zero shot audio classification, automatic speech recognition, Text to speech)",
+      "source": "C:\\Users\\licha\\OneDrive\\Desktop\\Gen-AI\\final lab\\lab_9_428.docx"
+    },
+    {
+      "blocks_added": 35,
+      "displayed_images_added": 3,
+      "section": "Lab 10.: Demonstrate an experiment with LangChain and LangFlow",
+      "source": "C:\\Users\\licha\\OneDrive\\Desktop\\Gen-AI\\final lab\\lab_10_428.docx"
+    },
+    {
+      "blocks_added": 40,
+      "displayed_images_added": 10,
+      "section": "Lab 11: Experiment with RAG and VectorDb",
+      "source": "C:\\Users\\licha\\OneDrive\\Desktop\\Gen-AI\\final lab\\lab_11_428.docx"
+    },
+    {
+      "blocks_added": 33,
+      "displayed_images_added": 3,
+      "section": "Lab 12. Build a Simple LLM Agent using phi data framework",
+      "source": "C:\\Users\\licha\\OneDrive\\Desktop\\Gen-AI\\final lab\\lab_12_428.docx"
+    },
+    {
+      "blocks_added": 30,
+      "displayed_images_added": 3,
+      "section": "Lab 13 \u2013 Use LLMs for Code Generation and Bug Detection in Software Development",
+      "source": "C:\\Users\\licha\\OneDrive\\Desktop\\Gen-AI\\final lab\\lab_13_428.docx"
+    },
+    {
+      "blocks_added": 27,
+      "displayed_images_added": 2,
+      "section": "Lab 14. \u2013 Using Multimodal Large Language Models (Gemini) for Visual Question Answering",
+      "source": "C:\\Users\\licha\\OneDrive\\Desktop\\Gen-AI\\final lab\\lab_14_428.docx"
+    },
+    {
+      "blocks_added": 27,
+      "displayed_images_added": 2,
+      "section": "Lab 15 \u2013 Course Project Using a Free Local VQA Model with a Gradio Frontend",
+      "source": "C:\\Users\\licha\\OneDrive\\Desktop\\Gen-AI\\final lab\\lab_15_428.docx"
+    }
+  ]
+}

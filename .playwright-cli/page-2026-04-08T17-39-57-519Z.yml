@@ -1,0 +1,22 @@
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - heading "Lab 9 Notebook Evidence" [level=1] [ref=e4]
+    - generic [ref=e5]: Rendered from saved outputs inside Huggingface.ipynb
+    - generic [ref=e6]: Transformers
+    - generic [ref=e7]: Gradio
+    - generic [ref=e8]: Notebook Output
+  - generic [ref=e9]:
+    - heading "Notebook Code Cell" [level=2] [ref=e10]
+    - generic [ref=e11]: "# Step 1: Install the necessary libraries !pip install -q transformers gradio # Step 2: Import libraries from transformers import pipeline import gradio as gr # Step 3: Load the sentiment analysis pipeline # This downloads a pre-trained model automatically classifier = pipeline(\"sentiment-analysis\") # Step 4: Define a simple function for the app to use def analyze_text(text): result = classifier(text)[0] return f\"Label: {result['label']}, Score: {round(result['score'], 4)}\" # Step 5: Create the web interface demo = gr.Interface( fn=analyze_text, inputs=\"text\", outputs=\"text\", title=\"My First AI Sentiment App\", description=\"Type a sentence below to see if it's Positive or Negative!\" ) # Step 6: Launch the app demo.launch(share=True)"
+  - generic [ref=e12]:
+    - heading "Saved Console / Runtime Output" [level=2] [ref=e13]
+    - generic [ref=e14]: "WARNING:torchao.kernel.intmm:Warning: Detected no triton, on systems without Triton certain kernels will not work No model was supplied, defaulted to distilbert/distilbert-base-uncased-finetuned-sst-2-english and revision 714eb0f (https://huggingface.co/distilbert/distilbert-base-uncased-finetuned-sst-2-english). Using a pipeline without specifying a model name and revision in production is not recommended. /usr/local/lib/python3.12/dist-packages/huggingface_hub/utils/_auth.py:94: UserWarning: The secret `HF_TOKEN` does not exist in your Colab secrets. To authenticate with the Hugging Face Hub, create a token in your settings tab (https://huggingface.co/settings/tokens), set it as secret in your Google Colab and restart your session. You will be able to reuse this secret in all of your notebooks. Please note that authentication is recommended but still optional to access public models or datasets. warnings.warn( Device set to use cpu Colab notebook detected. To show errors in colab notebook, set debug=True in launch() * Running on public URL: https://dae99d6ae0f25a297e.gradio.live This share link expires in 1 week. For free permanent hosting and GPU upgrades, run `gradio deploy` from the terminal in the working directory to deploy to Hugging Face Spaces (https://huggingface.co/spaces)"
+  - generic [ref=e15]:
+    - heading "Saved Interface Output" [level=2] [ref=e16]
+    - generic [ref=e17]: The notebook stored a Gradio iframe as HTML output.
+    - iframe [ref=e20]:
+      - generic [ref=f1e2]:
+        - link [ref=f1e3] [cursor=pointer]:
+          - /url: https://www.gradio.app
+          - img [ref=f1e4]
+        - heading "No interface is running right now" [level=2] [ref=f1e5]

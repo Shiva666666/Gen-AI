@@ -1,0 +1,93 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Huggingface.ipynb Outputs Only</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #111827;
+      color: #f3f4f6;
+      margin: 0;
+      padding: 32px;
+    }
+    .wrap {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+    .card {
+      background: #1f2937;
+      border: 1px solid #374151;
+      border-radius: 14px;
+      padding: 20px;
+      margin-bottom: 20px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+    }
+    h1, h2 {
+      margin-top: 0;
+      color: #f9fafb;
+    }
+    .muted {
+      color: #9ca3af;
+      margin-bottom: 12px;
+    }
+    pre {
+      white-space: pre-wrap;
+      word-wrap: break-word;
+      background: #0f172a;
+      color: #e5e7eb;
+      border-radius: 10px;
+      padding: 16px;
+      border: 1px solid #334155;
+      overflow-x: auto;
+      font-family: Consolas, monospace;
+      font-size: 14px;
+      line-height: 1.45;
+    }
+    .frame {
+      background: #fff;
+      border-radius: 10px;
+      overflow: hidden;
+      padding: 8px;
+    }
+    iframe {
+      width: 100%;
+      height: 500px;
+      border: 0;
+      background: #fff;
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="card">
+      <h1>Lab 9 Notebook Output Evidence</h1>
+      <div class="muted">Saved runtime output and embedded interface output from Huggingface.ipynb</div>
+    </div>
+    <div class="card">
+      <h2>Saved Console / Runtime Output</h2>
+      <pre>WARNING:torchao.kernel.intmm:Warning: Detected no triton, on systems without Triton certain kernels will not work
+No model was supplied, defaulted to distilbert/distilbert-base-uncased-finetuned-sst-2-english and revision 714eb0f (https://huggingface.co/distilbert/distilbert-base-uncased-finetuned-sst-2-english).
+Using a pipeline without specifying a model name and revision in production is not recommended.
+/usr/local/lib/python3.12/dist-packages/huggingface_hub/utils/_auth.py:94: UserWarning: 
+The secret `HF_TOKEN` does not exist in your Colab secrets.
+To authenticate with the Hugging Face Hub, create a token in your settings tab (https://huggingface.co/settings/tokens), set it as secret in your Google Colab and restart your session.
+You will be able to reuse this secret in all of your notebooks.
+Please note that authentication is recommended but still optional to access public models or datasets.
+  warnings.warn(
+
+Device set to use cpu
+
+Colab notebook detected. To show errors in colab notebook, set debug=True in launch()
+* Running on public URL: https://dae99d6ae0f25a297e.gradio.live
+
+This share link expires in 1 week. For free permanent hosting and GPU upgrades, run `gradio deploy` from the terminal in the working directory to deploy to Hugging Face Spaces (https://huggingface.co/spaces)</pre>
+    </div>
+    <div class="card">
+      <h2>Saved Interface Output</h2>
+      <div class="muted">The notebook stored a Gradio iframe as HTML output.</div>
+      <div class="frame"><div><iframe src="https://dae99d6ae0f25a297e.gradio.live" width="100%" height="500" allow="autoplay; camera; microphone; clipboard-read; clipboard-write;" frameborder="0" allowfullscreen></iframe></div></div>
+    </div>
+  </div>
+</body>
+</html>

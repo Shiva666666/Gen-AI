@@ -1,0 +1,16 @@
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - heading "Lab 9 Notebook Output Evidence" [level=1] [ref=e4]
+    - generic [ref=e5]: Saved runtime output and embedded interface output from Huggingface.ipynb
+  - generic [ref=e6]:
+    - heading "Saved Console / Runtime Output" [level=2] [ref=e7]
+    - generic [ref=e8]: "WARNING:torchao.kernel.intmm:Warning: Detected no triton, on systems without Triton certain kernels will not work No model was supplied, defaulted to distilbert/distilbert-base-uncased-finetuned-sst-2-english and revision 714eb0f (https://huggingface.co/distilbert/distilbert-base-uncased-finetuned-sst-2-english). Using a pipeline without specifying a model name and revision in production is not recommended. /usr/local/lib/python3.12/dist-packages/huggingface_hub/utils/_auth.py:94: UserWarning: The secret `HF_TOKEN` does not exist in your Colab secrets. To authenticate with the Hugging Face Hub, create a token in your settings tab (https://huggingface.co/settings/tokens), set it as secret in your Google Colab and restart your session. You will be able to reuse this secret in all of your notebooks. Please note that authentication is recommended but still optional to access public models or datasets. warnings.warn( Device set to use cpu Colab notebook detected. To show errors in colab notebook, set debug=True in launch() * Running on public URL: https://dae99d6ae0f25a297e.gradio.live This share link expires in 1 week. For free permanent hosting and GPU upgrades, run `gradio deploy` from the terminal in the working directory to deploy to Hugging Face Spaces (https://huggingface.co/spaces)"
+  - generic [ref=e9]:
+    - heading "Saved Interface Output" [level=2] [ref=e10]
+    - generic [ref=e11]: The notebook stored a Gradio iframe as HTML output.
+    - iframe [ref=e14]:
+      - generic [ref=f3e2]:
+        - link [ref=f3e3] [cursor=pointer]:
+          - /url: https://www.gradio.app
+          - img [ref=f3e5]
+        - heading "No interface is running right now" [level=2] [ref=f3e4]
